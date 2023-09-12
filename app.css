@@ -1,0 +1,104 @@
+body{
+    background: #010922;
+    width: 1440px;
+    height: 3738px;
+    top: -1869px;
+    left: -720px;
+    justify-content: center;
+    display: flex;
+}
+
+.nav-btn
+{
+    width: 115px;
+    height: 40px;
+    top: 30px;
+    left: 1025px;
+    border-radius: 20px;
+    background-color: #312964;
+    display: flex;
+    align-items: center;
+    
+    
+
+}
+body::-webkit-scrollbar
+{
+    display: none;
+}
+
+
+.innerEllipse
+{
+    background: #8F8FDB;
+    width: 10px;
+    height: 10px;
+    top: 53px;
+    left: 1092px;
+    position: relative;
+    border-radius: 50% ;
+    
+}
+.outerEllipse
+{
+    position: relative;
+    background: #010922;
+    width: 20px;
+    height: 20px;
+    top: 48px;
+    left: 1087px;
+    border-radius: 50% ;
+}
+#navbar
+{
+    justify-content: center;
+    width: Fixed (1,140px);
+    height: 100px;
+    left: 150px;
+    padding: 30px 0px 30px 0px;
+    gap: 32px;
+    display: flex;
+}
+
+
+#kryptoIcon
+{
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #EBEBEB;
+    width: 480.5px;
+    display: flex;
+    align-items:flex-start;
+}
+
+
+.nav-buttons
+{
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #EBEBEB;
+    width: 53px;
+ height: 28px
+
+    
+}
+
+
+
+.nav-content
+{
+    display: flex;
+ width: Fill (480.5px);
+height: Hug (28px);
+gap: 60px;
+
+
+}
