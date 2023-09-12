@@ -96,9 +96,9 @@ body::-webkit-scrollbar
 .nav-content
 {
     display: flex;
- width: Fill (480.5px);
-height: Hug (28px);
-gap: 60px;
+    width: Fill (480.5px);
+    height: Hug (28px);
+    gap: 60px;
 
 
 }
